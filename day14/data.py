@@ -1,0 +1,22 @@
+data = [
+    {"name": "Cristiano Ronaldo", "followers": 620, "description": "Footballer", "country": "Portugal"},
+    {"name": "Lionel Messi", "followers": 500, "description": "Footballer", "country": "Argentina"},
+    {"name": "Selena Gomez", "followers": 430, "description": "Singer and actress", "country": "USA"},
+    {"name": "Kylie Jenner", "followers": 400, "description": "Media personality", "country": "USA"},
+    {"name": "Dwayne Johnson", "followers": 395, "description": "Actor and wrestler", "country": "USA"},
+    {"name": "Ariana Grande", "followers": 381, "description": "Singer", "country": "USA"},
+    {"name": "Kim Kardashian", "followers": 365, "description": "Media personality", "country": "USA"},
+    {"name": "Beyoncé", "followers": 320, "description": "Singer", "country": "USA"},
+    {"name": "Khloé Kardashian", "followers": 310, "description": "Media personality", "country": "USA"},
+    {"name": "Nike", "followers": 300, "description": "Sports brand", "country": "USA"},
+    {"name": "Justin Bieber", "followers": 295, "description": "Singer", "country": "Canada"},
+    {"name": "Taylor Swift", "followers": 285, "description": "Singer", "country": "USA"},
+    {"name": "National Geographic", "followers": 280, "description": "Magazine", "country": "USA"},
+    {"name": "Virat Kohli", "followers": 270, "description": "Cricketer", "country": "India"},
+    {"name": "Zendaya", "followers": 190, "description": "Actress", "country": "USA"},
+    {"name": "Kevin Hart", "followers": 180, "description": "Comedian", "country": "USA"},
+    {"name": "Billie Eilish", "followers": 175, "description": "Singer", "country": "USA"},
+    {"name": "Drake", "followers": 170, "description": "Rapper", "country": "Canada"},
+    {"name": "LeBron James", "followers": 160, "description": "Basketball player", "country": "USA"},
+    {"name": "Shakira", "followers": 150, "description": "Singer", "country": "Colombia"}
+]
